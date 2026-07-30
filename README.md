@@ -87,6 +87,6 @@ This repository contains my solutions for the **J.P. Morgan Data Analytics Virtu
 
 ## 👨‍💻 Author
 
-**Immadi SKNB Mannikanta**
+**Immadi SKNB Manikanta**
 
 Aspiring Data Analyst
